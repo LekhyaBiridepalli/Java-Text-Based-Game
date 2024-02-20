@@ -1,0 +1,7 @@
+com/TextBasedGame/Model/Item.class
+com/TextBasedGame/Model/Player.class
+com/TextBasedGame/Controller/ForestPart1Servlet.class
+com/TextBasedGame/Controller/Level2Servlet.class
+com/TextBasedGame/Controller/Level1Servlet.class
+com/TextBasedGame/Model/Inventory.class
+com/TextBasedGame/Controller/ResultServlet.class
