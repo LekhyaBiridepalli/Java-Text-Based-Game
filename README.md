@@ -1,4 +1,4 @@
-TEAM MEMBER : IFRAH NAAZ (https://github.com/ifrahnz26/Java-Text-Based-Game)
+### TEAM MEMBER : IFRAH NAAZ (https://github.com/ifrahnz26/Java-Text-Based-Game)
 
 Welcome to the Text-Based Game repository! This project features three text-based games implemented in Java: Quiz, Adventure Game, and Guess the Movie.
 
@@ -6,20 +6,20 @@ The project includes three separate games, each implemented using Java Servlets 
 ![image](https://github.com/ifrahnz26/Java-Text-Based-Game/assets/120669161/088252f1-3ba9-46aa-aad0-d8777c41977b)
 
 
-#  1. Quiz
+##  1. Quiz
 - The Quiz game challenges players with a series of questions from various topics.
 - Players select answers to the questions and receive feedback on their responses.
 
 ![image](https://github.com/ifrahnz26/Java-Text-Based-Game/assets/120669161/294f711d-c1eb-4de4-aa58-c6c0c7b64da3)
 
 
-#  2. Adventure Game
+##  2. Adventure Game
 - The Adventure Game offers players an interactive storyline where they make choices to navigate through different scenarios.
 - Players progress through the game by making decisions and facing challenges along the way.
 
 ![image](https://github.com/ifrahnz26/Java-Text-Based-Game/assets/120669161/e2fe0f79-dfc6-4ac0-b6fe-3868fcb9d60d)
 
-#  3. Guess the Movie
+##  3. Guess the Movie
 - Guess the Movie is a game where players guess the names of movies based on emoji clues.
 - Players enter their guesses and receive feedback on whether their answers are correct or incorrect.
 
